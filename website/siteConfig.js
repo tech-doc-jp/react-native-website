@@ -87,7 +87,7 @@ const siteConfig = {
   highlight: {
     theme: 'solarized-dark',
   },
-  gaTrackingId: 'UA-41298772-2',
+  gaTrackingId: 'UA-44046976-15',
   scripts: [
     'https://cdn.jsdelivr.net/npm/focus-visible@5.0.2/dist/focus-visible.min.js',
     'https://snack.expo.io/embed.js',
