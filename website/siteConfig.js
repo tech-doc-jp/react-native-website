@@ -21,8 +21,8 @@ const repoUrl = 'https://github.com/facebook/react-native';
 const siteConfig = {
   title: 'React Native',
   tagline: 'A framework for building native apps using React',
-  url: 'https://tech-doc-jp.github.io',
-  baseUrl: '/react-native-website/',
+  url: 'https://react-native.tech-doc.jp/',
+  baseUrl: '/',
   projectName: 'react-native-website',
   organizationName: 'tech-doc-jp',
   // cname: 'reactnative.dev',
